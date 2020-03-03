@@ -7,4 +7,9 @@ dependencies:
   - tkinter
   - os
   - numpy
+  - pip
+    - pip:
+	    - os
+	    - tkinter
  
+
