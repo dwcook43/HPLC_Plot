@@ -8,8 +8,8 @@ dependencies:
   - os
   - numpy
   - pip
-    - pip:
-	    - os
-	    - tkinter
+  - pip:
+	- os
+	- tkinter
  
 
